@@ -66,7 +66,7 @@ min_date_hour = df_hour['dteday'].min()
 max_date_hour = df_hour['dteday'].max()
 
 with st.sidebar:
-    st.image("./logo.png")
+    st.image("./Picture/logo.png")
     start_date, end_date = st.date_input(
         label='Rentang Waktu', min_value=min_date_day,
         max_value=max_date_day,
