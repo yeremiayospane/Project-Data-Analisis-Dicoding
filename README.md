@@ -11,9 +11,7 @@ streamlit run streamlit_dashboard.py
 ```
 
 ## Deploy App
-```
 Link Deploy : https://yeremiayospane-project-data-analisis-streamlit-dashboard-98g9j2.streamlit.app/
-```
 
 ## Tampilan Dashboard : 
 Berikut adalah tampilan dashboard.
